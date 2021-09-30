@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=efgalvao&show_icons=true&theme=merko)](https://github.com/efgalvao/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efgalvao&show_icons=true&theme=merko&layout=compact)](https://github.com/efgalvao/github-readme-stats)
 <!--
 **efgalvao/efgalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
